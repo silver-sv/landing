@@ -6,6 +6,15 @@
 .pricing__free{
     box-sizing: border-box;
     background: #FFFFFF;
-    width: 335px;
-    height: 607px;
+    align-items: center;
+}
+.standart{
+    box-sizing: border-box;
+    align-items: center;
+    background: #2091F9;;
+}
+.business{
+    box-sizing: border-box;
+    background: #FFFFFF;
+    align-items: center;
 }
