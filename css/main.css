@@ -3,3 +3,9 @@
     width: 1777px;
     height: 1155px;
 }
+.free{
+    box-sizing: border-box;
+    background: #FFFFFF;
+    width: 335px;
+    height: 607px;
+}
