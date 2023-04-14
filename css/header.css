@@ -14,8 +14,7 @@
 }
 .header{
     background-image: url(../img/rectangle.png);
-    background-position-y: center;
-    background-position-x: center;
-
-    
-}
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+} 
