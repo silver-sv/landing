@@ -7,11 +7,15 @@
 }
 .header_nav__menu a{
     text-decoration: none;
+    color: #000;
 }
 .header_nav__menu a:hover{
     text-decoration: underline;
 }
-.header_banner{
+.header{
     background-image: url(../img/rectangle.png);
+    background-position-y: center;
+    background-position-x: center;
+
     
 }
