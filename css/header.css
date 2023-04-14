@@ -6,7 +6,6 @@
     gap: 10px;
 }
 .header_nav__menu a{
-    color: #FFFFFF;
     text-decoration: none;
 }
 .header_nav__menu a:hover{
@@ -14,4 +13,5 @@
 }
 .header_banner{
     background-image: url(../img/rectangle.png);
+    
 }
