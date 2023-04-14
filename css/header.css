@@ -21,13 +21,5 @@
 } 
 .header__figma{
     color: #FFFFFF;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    font-family: 'Graphik';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 74px;
-    line-height: 84px
+   
 }
