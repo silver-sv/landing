@@ -7,6 +7,9 @@
     box-sizing: border-box;
     background: #FFFFFF;
     align-items: center;
+    padding: 40px;
+    gap: 30px;
+    flex-direction: column;
 }
 .standart{
     box-sizing: border-box;
