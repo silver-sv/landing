@@ -17,8 +17,11 @@
     background-size: cover;
     background-position: center;
     min-height: 500px;
+    
+} 
+.title__logo{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-} 
+}
