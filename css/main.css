@@ -7,17 +7,18 @@
     box-sizing: border-box;
     background: #FFFFFF;
     align-items: center;
-    padding: 40px;
-    gap: 30px;
+    padding: 60px 50px;
     flex-direction: column;
 }
 .standart{
     box-sizing: border-box;
     align-items: center;
     background: #2091F9;;
+    padding: 60px 50px;
 }
 .business{
     box-sizing: border-box;
     background: #FFFFFF;
     align-items: center;
+    padding: 60px 50 px;
 }
