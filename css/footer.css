@@ -5,22 +5,15 @@
     box-sizing: border-box;
 }
 .pages{
-    width: 60px;
-    height: 28px;
+    box-sizing: border-box;
     color: #FFFFFF;
     font-family: 'Graphik';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 28px;
-}
-.tomothy{
-    width: 60px;
-    height: 28px;
-    color: #FFFFFF;
-    font-family: 'Graphik';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 28px;
-}
+    display: flex;
+    width: 276px;
+    height: 580px;
+    padding: 60px 0px 60px 0px;
+    margin: 40px 20px 40px 20px;
+    background-color: var(--brand-color);
+    align-items: center;
+    flex-direction: column;
+
