@@ -2,6 +2,7 @@
     background:  #252B42;
     width: 1777px;
     height: 567px;
+    box-sizing: border-box;
 }
 .pages{
     width: 60px;

@@ -1,7 +1,7 @@
 .header_nav__menu{
     display: flex;
     flex-direction: column;
-  
+   
 }
 .header_nav__menu a{
     text-decoration: none;
